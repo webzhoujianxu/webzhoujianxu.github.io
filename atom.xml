@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://webzhoujianxu.github.io</id>
     <title>怕挨打的旭旭子</title>
-    <updated>2020-08-10T16:51:37.868Z</updated>
+    <updated>2020-08-10T18:10:51.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://webzhoujianxu.github.io"/>
     <link rel="self" href="https://webzhoujianxu.github.io/atom.xml"/>
@@ -11,16 +11,10 @@
     <icon>https://webzhoujianxu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 怕挨打的旭旭子</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://webzhoujianxu.github.io/post/hello-gridea/</id>
-        <link href="https://webzhoujianxu.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[新的开始，基于Gridea的博客开通啦。]]></title>
+        <id>https://webzhoujianxu.github.io/post/ji-yu-gridea-de-bo-ke-kai-tong-la/</id>
+        <link href="https://webzhoujianxu.github.io/post/ji-yu-gridea-de-bo-ke-kai-tong-la/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
+        <updated>2020-08-10T17:15:43.000Z</updated>
     </entry>
 </feed>
